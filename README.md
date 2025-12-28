@@ -1,6 +1,6 @@
 **End-to-End Feature Store and Churn Prediction Pipeline on AWS**
 
-**Project Overview**
+**Project Overview:**
 This project demonstrates an end-to-end machine learning pipeline for customer churn prediction built using AWS cloud services and containerized deployment. It covers the complete lifecycle from data ingestion and feature storage to model training, container-based deployment, and real-time inference. The project uses Docker to package the inference logic and dependencies, which is deployed to AWS Lambda using a container image stored in Amazon ECR.
 
 **Problem Statement**
